@@ -1,3 +1,5 @@
+![logo](https://github.com/vedantsuryawanshi7/vedantsuryawanshi7/blob/main/GITHUB%20BANNNER.png)
+
 <h1 align="center">Hi 👋, I'm Vedant Suryawanshi</h1>
 <h3 align="center">A Innovative AND Passionate AI & DS Engineer From India</h3>
 
