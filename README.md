@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Suryawanshi</h1>
-<h3 align="center">A Innovative AND Passionate AI & DS Student From India</h3>
+<h3 align="center">A Innovative AND Passionate AI & DS Engineer From India</h3>
 
 <img align="right" alt="coding" width="400" src="https://ismuniv.com/wp-content/uploads/2022/02/AI-M2.gif">
 
